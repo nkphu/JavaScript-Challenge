@@ -1,1 +1,1 @@
-# JavaScript-and-DOM-Manipulation
+# JavaScript Challenge
